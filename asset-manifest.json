@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.e70a7b9b.chunk.js",
-    "main.js.map": "/static/js/main.e70a7b9b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9fa7a026.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9fa7a026.js.map",
-    "static/css/2.a95be28f.chunk.css": "/static/css/2.a95be28f.chunk.css",
-    "static/js/2.b291c414.chunk.js": "/static/js/2.b291c414.chunk.js",
-    "static/js/2.b291c414.chunk.js.map": "/static/js/2.b291c414.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.a95be28f.chunk.css.map": "/static/css/2.a95be28f.chunk.css.map",
-    "static/js/2.b291c414.chunk.js.LICENSE.txt": "/static/js/2.b291c414.chunk.js.LICENSE.txt"
+    "main.js": "/SignalClientApp/static/js/main.e70a7b9b.chunk.js",
+    "main.js.map": "/SignalClientApp/static/js/main.e70a7b9b.chunk.js.map",
+    "runtime-main.js": "/SignalClientApp/static/js/runtime-main.caf6b465.js",
+    "runtime-main.js.map": "/SignalClientApp/static/js/runtime-main.caf6b465.js.map",
+    "static/css/2.a95be28f.chunk.css": "/SignalClientApp/static/css/2.a95be28f.chunk.css",
+    "static/js/2.b291c414.chunk.js": "/SignalClientApp/static/js/2.b291c414.chunk.js",
+    "static/js/2.b291c414.chunk.js.map": "/SignalClientApp/static/js/2.b291c414.chunk.js.map",
+    "index.html": "/SignalClientApp/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/SignalClientApp/static/css/2.a95be28f.chunk.css.map",
+    "static/js/2.b291c414.chunk.js.LICENSE.txt": "/SignalClientApp/static/js/2.b291c414.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9fa7a026.js",
+    "static/js/runtime-main.caf6b465.js",
     "static/css/2.a95be28f.chunk.css",
     "static/js/2.b291c414.chunk.js",
     "static/js/main.e70a7b9b.chunk.js"
